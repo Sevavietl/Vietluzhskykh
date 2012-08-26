@@ -1,0 +1,5 @@
+require "../word_list"
+require "../hand"
+require "../player"
+require "../computer_player"
+require "../misc"
